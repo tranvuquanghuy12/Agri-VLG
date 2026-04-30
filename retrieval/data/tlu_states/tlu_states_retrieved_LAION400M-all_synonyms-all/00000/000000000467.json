@@ -1,0 +1,12 @@
+{
+    "url": "https://thumbs.ebaystatic.com/images/g/CEkAAOSw4A5YsMFP/s-l225.jpg",
+    "key": "000000000467",
+    "status": "success",
+    "error_message": null,
+    "width": 169,
+    "height": 225,
+    "original_width": 169,
+    "original_height": 225,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"169\", \"EXIF ExifImageLength\": \"225\"}",
+    "sha256": "c7fc493b63c392e5e33f73dd9420460c3da7ce866f04656f1ef517b4c9a5d89a"
+}

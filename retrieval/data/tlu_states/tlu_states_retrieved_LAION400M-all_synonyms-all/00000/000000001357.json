@@ -1,0 +1,12 @@
+{
+    "url": "https://www.azcookbook.com/wp-content/uploads/2011/11/apple-pie_edited-2.jpg",
+    "key": "000000001357",
+    "status": "success",
+    "error_message": null,
+    "width": 550,
+    "height": 383,
+    "original_width": 550,
+    "original_height": 383,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XTi\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 9.0 Macintosh\", \"Image DateTime\": \"2011:11:17 16:38:16\", \"Image HostComputer\": \"Mac OS X 10.6.4\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"272\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"614\", \"Thumbnail JPEGInterchangeFormatLength\": \"8637\", \"EXIF ExposureTime\": \"1/640\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:10:16 04:08:07\", \"EXIF DateTimeDigitized\": \"2011:10:16 04:08:07\", \"EXIF ApertureValue\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"550\", \"EXIF ExifImageLength\": \"383\"}",
+    "sha256": "2242f6aa02fa108d6df6ec520e9673514bc8f3abac42b4dbaa2a33856f16ce05"
+}

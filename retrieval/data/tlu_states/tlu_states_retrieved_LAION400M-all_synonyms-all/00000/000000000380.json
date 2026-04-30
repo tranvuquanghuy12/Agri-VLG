@@ -1,0 +1,12 @@
+{
+    "url": "http://thumbs.ebaystatic.com/images/g/yqoAAOSwgQ9Vpn9L/s-l225.jpg",
+    "key": "000000000380",
+    "status": "success",
+    "error_message": null,
+    "width": 225,
+    "height": 181,
+    "original_width": 225,
+    "original_height": 181,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"225\", \"EXIF ExifImageLength\": \"181\"}",
+    "sha256": "09dffc40f6458fa0e7a269d791042f2dda3293ab530c297fe61d0ab8b8fe4fac"
+}

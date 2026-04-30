@@ -1,0 +1,12 @@
+{
+    "url": "https://leftcall.com/wp-content/uploads/2012/11/4212008131_712baf00c8_o.jpg",
+    "key": "000000001158",
+    "status": "success",
+    "error_message": null,
+    "width": 800,
+    "height": 600,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX10 IS\", \"Image Orientation\": \"0\", \"Image XResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YResolution\": \"180\", \"Image Software\": \"Picasa 3.0\", \"Image DateTime\": \"2009:11:14 22:09:13\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"256\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3478\", \"Thumbnail JPEGInterchangeFormatLength\": \"4673\", \"EXIF ExposureTime\": \"1/8\", \"EXIF FNumber\": \"16/5\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:11:14 22:09:13\", \"EXIF DateTimeDigitized\": \"2009:11:14 22:09:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"3\", \"EXIF ApertureValue\": \"107/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"107/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"3563/500\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"800\", \"Interoperability RelatedImageLength\": \"600\", \"EXIF InteroperabilityOffset\": \"3330\", \"EXIF FocalPlaneXResolution\": \"2816000/241\", \"EXIF FocalPlaneYResolution\": \"2112000/181\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"09c29e3b2c80881830a4c2857f8c001c\"}",
+    "sha256": "a0cbb0df165850461b439855d8969a665229e517c9e7ca8354f2828813869e40"
+}

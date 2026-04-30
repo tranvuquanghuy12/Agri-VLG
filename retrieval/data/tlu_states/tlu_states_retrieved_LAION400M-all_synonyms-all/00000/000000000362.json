@@ -1,0 +1,12 @@
+{
+    "url": "https://t2.ftcdn.net/jpg/00/62/30/41/400_F_62304138_HmBM4UmaVwNvC0ijA5V1mbRch6sXVKYc.jpg",
+    "key": "000000000362",
+    "status": "success",
+    "error_message": null,
+    "width": 500,
+    "height": 333,
+    "original_width": 500,
+    "original_height": 333,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "00ad436af746d87f22a4a80cec3921a858dd8e7c77ed39ea82eb9b0e501dcd44"
+}

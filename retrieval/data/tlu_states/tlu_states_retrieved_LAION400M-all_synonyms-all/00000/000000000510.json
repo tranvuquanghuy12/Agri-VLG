@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn01.pinkoi.com/product/cDiJCxRn/0/320x320.jpg",
+    "key": "000000000510",
+    "status": "success",
+    "error_message": null,
+    "width": 320,
+    "height": 320,
+    "original_width": 320,
+    "original_height": 320,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"320\", \"EXIF ExifImageLength\": \"320\"}",
+    "sha256": "15bd3f7b7d5e05c3a13bd0f89189017319aed1aed1cdfd1646d50860f0fe0114"
+}

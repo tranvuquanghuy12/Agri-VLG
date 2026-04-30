@@ -1,0 +1,12 @@
+{
+    "url": "http://news.bbcimg.co.uk/media/images/68737000/jpg/_68737666_china.jpg",
+    "key": "000000000906",
+    "status": "success",
+    "error_message": null,
+    "width": 304,
+    "height": 171,
+    "original_width": 304,
+    "original_height": 171,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\"}",
+    "sha256": "c61c28c90a634254fd64c05e2389678fba44c55246752a9498c8ea352e7e6ae4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.garyjwolff.com/image-files/japanese_apple_vending_machine.jpg",
+    "key": "000000000313",
+    "status": "success",
+    "error_message": null,
+    "width": 400,
+    "height": 178,
+    "original_width": 400,
+    "original_height": 178,
+    "exif": "{\"Image Make\": \"CASIO COMPUTER CO.,LTD.\", \"Image Model\": \"EX-Z200\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2012:05:29 14:31:29\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"398\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image DigitalZoomRatio\": \"0/0\", \"Image FocalLengthIn35mmFilm\": \"28\", \"Image SceneCaptureType\": \"Standard\", \"Image GainControl\": \"High gain up\", \"Image Contrast\": \"Normal\", \"Image Saturation\": \"Normal\", \"Image Sharpness\": \"Normal\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"13/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:05:29 14:31:29\", \"EXIF DateTimeDigitized\": \"2012:05:29 14:31:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"44/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"14/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"49/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\", \"EXIF FileSource\": \"0\"}",
+    "sha256": "397c2790cf75bc0076a0ca5e500c888d27d7d73c83ea09788594515e69779ec2"
+}

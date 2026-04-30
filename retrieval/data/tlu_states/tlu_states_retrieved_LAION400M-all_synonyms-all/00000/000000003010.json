@@ -1,0 +1,12 @@
+{
+    "url": "https://cookery-dragonfly-production.s3.amazonaws.com/recipes/1481/photo/thumbnail-wj8u5447c396/dutch-apple-pie.jpg",
+    "key": "000000003010",
+    "status": "success",
+    "error_message": null,
+    "width": 500,
+    "height": 333,
+    "original_width": 500,
+    "original_height": 333,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Aperture 3.5.1\", \"Image DateTime\": \"2017:10:20 13:51:10\", \"Image ExifOffset\": \"202\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:20 13:51:10\", \"EXIF DateTimeDigitized\": \"2017:10:20 13:51:10\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"45/8\", \"EXIF ApertureValue\": \"5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5429/4309\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTime\": \"59\", \"EXIF SubSecTimeOriginal\": \"59\", \"EXIF SubSecTimeDigitized\": \"59\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4840\", \"EXIF ExifImageLength\": \"3227\", \"EXIF FocalPlaneXResolution\": \"200159/52\", \"EXIF FocalPlaneYResolution\": \"551048/141\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "95ef32b846d589d24788f1620b2f3b590ea0ca08c32e20250042abf5856b7304"
+}

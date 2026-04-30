@@ -1,0 +1,12 @@
+{
+    "url": "https://www.gastronomias.com.pt/imagens/gastronomia/us/small/GASTRO1-3462-american_apple_pie_estados_unidos_da_america_us.jpg",
+    "key": "000000001396",
+    "status": "success",
+    "error_message": null,
+    "width": 250,
+    "height": 171,
+    "original_width": 250,
+    "original_height": 171,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D70\", \"Image Orientation\": \"0\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Ver.1.01\", \"Image DateTime\": \"2004:11:14 10:40:02\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"208\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"27960\", \"Thumbnail JPEGInterchangeFormatLength\": \"5830\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2004:11:14 10:40:02\", \"EXIF DateTimeDigitized\": \"2004:11:14 10:40:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"28\", \"EXIF SubSecTime\": \"\", \"EXIF SubSecTimeOriginal\": \"\", \"EXIF SubSecTimeDigitized\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3008\", \"EXIF ExifImageLength\": \"2000\", \"EXIF InteroperabilityOffset\": \"27876\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"42\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "f47f2b3e289dd9042c4a85e12fcceb86be4252b3c312b063eceec7535e418316"
+}

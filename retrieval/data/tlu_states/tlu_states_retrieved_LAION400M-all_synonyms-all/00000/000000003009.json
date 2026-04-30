@@ -1,0 +1,12 @@
+{
+    "url": "https://grecipes.s3.amazonaws.com/recipe_picture/1461825/medium_IMG-9472-copy.jpg",
+    "key": "000000003009",
+    "status": "success",
+    "error_message": null,
+    "width": 85,
+    "height": 85,
+    "original_width": 85,
+    "original_height": 85,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image ExifOffset\": \"46\", \"EXIF ExifVersion\": \"\"}",
+    "sha256": "613217ebff602b068bba295d5f53c857f5f2dc802ad986a609bf933772bf2014"
+}

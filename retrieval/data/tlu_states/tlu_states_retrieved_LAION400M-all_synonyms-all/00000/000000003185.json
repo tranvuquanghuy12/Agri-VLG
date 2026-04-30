@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.shopify.com/s/files/1/1123/9420/products/dutch_apple001_large.jpg?v=1457489276",
+    "key": "000000003185",
+    "status": "success",
+    "error_message": null,
+    "width": 480,
+    "height": 360,
+    "original_width": 480,
+    "original_height": 360,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"360\"}",
+    "sha256": "8af322840fbc9b796402600724933e56faced818392a02673b3337da1b995e44"
+}

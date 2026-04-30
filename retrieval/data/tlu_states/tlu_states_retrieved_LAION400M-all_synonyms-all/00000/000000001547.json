@@ -1,0 +1,12 @@
+{
+    "url": "https://i.ebayimg.com/images/g/8B8AAOSwWrxcEQ7g/s-l300.jpg",
+    "key": "000000001547",
+    "status": "success",
+    "error_message": null,
+    "width": 300,
+    "height": 300,
+    "original_width": 300,
+    "original_height": 300,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72009/1000\", \"Image YResolution\": \"72009/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"300\"}",
+    "sha256": "0c7f8d2a6a75248dee6475285438797224319eeb8d10396a9f0edb8ad91955fb"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.inkdancechinesepaintings.com/grape/picture/2384017-x.jpg",
+    "key": "000000000050",
+    "status": "success",
+    "error_message": null,
+    "width": 160,
+    "height": 320,
+    "original_width": 160,
+    "original_height": 320,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS Windows\", \"Image DateTime\": \"2011:09:02 16:37:16\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"5630\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"160\", \"EXIF ExifImageLength\": \"320\"}",
+    "sha256": "5c36ed93fe8899f1130de65bf83e343bf16db77dd5560ea1777aa23149694a2c"
+}

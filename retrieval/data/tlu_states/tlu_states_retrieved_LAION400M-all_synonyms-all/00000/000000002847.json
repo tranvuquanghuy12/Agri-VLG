@@ -1,0 +1,12 @@
+{
+    "url": "http://cf1.bettymills.com/store/images/product/small/CLAC220.JPG",
+    "key": "000000002847",
+    "status": "success",
+    "error_message": null,
+    "width": 100,
+    "height": 100,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2015:05:27 14:34:56\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"1978\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"100\", \"EXIF ExifImageLength\": \"100\"}",
+    "sha256": "0d7893e40097fed154ee92d069fc7fbdd5ca104d6d60df8ffcfb5410bc752bca"
+}

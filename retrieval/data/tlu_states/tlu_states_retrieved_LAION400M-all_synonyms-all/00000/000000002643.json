@@ -1,0 +1,12 @@
+{
+    "url": "http://s3.amazonaws.com/gmi-digital-library/3590aad0-1371-4ac9-a48c-2e4582940401.jpg",
+    "key": "000000002643",
+    "status": "success",
+    "error_message": null,
+    "width": 615,
+    "height": 461,
+    "original_width": 615,
+    "original_height": 461,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\"}",
+    "sha256": "0a2642ba271e0859291ac63afbf7a25d67e67cac7db0d0e13b70e4918014ba5c"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.shopify.com/s/files/1/2207/5501/products/image_377084db-0dcb-4cc3-a406-a0dffb1d86ad_grande.jpg?v=1605202799",
+    "key": "000000002394",
+    "status": "success",
+    "error_message": null,
+    "width": 600,
+    "height": 554,
+    "original_width": 600,
+    "original_height": 554,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"554\"}",
+    "sha256": "3ec88957f30c4590991cd22803a8df72a2ddf71b592efd474c2f900f35933a1c"
+}

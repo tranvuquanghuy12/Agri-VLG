@@ -1,0 +1,12 @@
+{
+    "url": "http://images.freeimages.com/images/thumbs/e2e/dutch-apple-pie-2-1322066.jpg",
+    "key": "000000002562",
+    "status": "success",
+    "error_message": null,
+    "width": 200,
+    "height": 150,
+    "original_width": 200,
+    "original_height": 150,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"200\", \"EXIF ExifImageLength\": \"150\"}",
+    "sha256": "546bc0d7eaa273d3eab23eae7a77678860304ddf117b28bb3ba92f72e0338906"
+}

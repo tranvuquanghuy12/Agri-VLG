@@ -1,0 +1,12 @@
+{
+    "url": "https://images.tmbi.com/wp-content/uploads/wwwroot/toh/images/photos/37/135x135/exps32026_th1191752d35a.jpg",
+    "key": "000000003083",
+    "status": "success",
+    "error_message": null,
+    "width": 135,
+    "height": 135,
+    "original_width": 135,
+    "original_height": 135,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"135\", \"EXIF ExifImageLength\": \"135\"}",
+    "sha256": "b0be5d55513531898992d0e87e4976abb1de6a58a30252f59fef8e35fb492f0f"
+}

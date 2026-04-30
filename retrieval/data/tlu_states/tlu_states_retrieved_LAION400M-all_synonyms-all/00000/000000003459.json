@@ -1,0 +1,12 @@
+{
+    "url": "http://freshfromoregon.com/wp-content/uploads/2015/09/2015.09.13@08.38.57._K3_1003-1024x681.jpg",
+    "key": "000000003459",
+    "status": "success",
+    "error_message": null,
+    "width": 1024,
+    "height": 681,
+    "original_width": 1024,
+    "original_height": 681,
+    "exif": "{\"Image ImageDescription\": \"Dutch apple crumb top pie in a glass canning jar\", \"Image Make\": \"RICOH IMAGING COMPANY, LTD.\", \"Image Model\": \"PENTAX K-3\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.7 (Windows)\", \"Image DateTime\": \"2015:09:14 21:51:07\", \"Image Artist\": \"Carrie L Trax\", \"Image Copyright\": \"Carrie L Trax\", \"Image ExifOffset\": \"340\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"966\", \"Thumbnail JPEGInterchangeFormatLength\": \"15628\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"13\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF Tag 0x8831\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:13 08:38:57\", \"EXIF DateTimeDigitized\": \"2015:09:13 08:38:57\", \"EXIF ShutterSpeedValue\": \"7491853/1000000\", \"EXIF ApertureValue\": \"7400879/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF FocalPlaneXResolution\": \"83927223/32768\", \"EXIF FocalPlaneYResolution\": \"83927223/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"75\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"1\", \"EXIF LensSpecification\": \"[50, 50, 14/5, 14/5]\", \"EXIF LensModel\": \"smc PENTAX-F MACRO 50mm F2.8\"}",
+    "sha256": "1fd4ddd7c9ee61b4ffe2df08ce8c2d53a14854c2cb04b40bbe65af05189b5e1a"
+}

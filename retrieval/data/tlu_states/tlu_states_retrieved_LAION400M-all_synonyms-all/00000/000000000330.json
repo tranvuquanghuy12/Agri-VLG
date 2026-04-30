@@ -1,0 +1,12 @@
+{
+    "url": "http://images.macrumors.com/article-new/2012/01/lucky_bag_ipad_2_2012.jpg",
+    "key": "000000000330",
+    "status": "success",
+    "error_message": null,
+    "width": 560,
+    "height": 484,
+    "original_width": 560,
+    "original_height": 484,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"560\", \"EXIF ExifImageLength\": \"484\"}",
+    "sha256": "2af7b093a9b79d36ad3cf48ea488de08b5c7ec802a71c2d2a5fad99503f00319"
+}

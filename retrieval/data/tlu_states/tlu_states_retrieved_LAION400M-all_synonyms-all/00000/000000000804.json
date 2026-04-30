@@ -1,0 +1,12 @@
+{
+    "url": "http://i01.i.aliimg.com/img/pb/952/425/982/982425952_652.jpg",
+    "key": "000000000804",
+    "status": "success",
+    "error_message": null,
+    "width": 800,
+    "height": 600,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2014:01:19 14:53:37\", \"Image ExifOffset\": \"156\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"294\", \"Thumbnail JPEGInterchangeFormatLength\": \"5987\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "3c0a36dc5ee6ce78022cda660ff467f8bf49c85c61221daba596585b17936f78"
+}

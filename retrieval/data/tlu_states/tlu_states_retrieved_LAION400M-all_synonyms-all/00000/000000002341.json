@@ -1,0 +1,12 @@
+{
+    "url": "https://p.bookcdn.com/data/Photos/300x302/3983/398331/398331936/Extended-Stay-America-Orange-County-Lake-Forest-photos-Exterior.JPEG",
+    "key": "000000002341",
+    "status": "success",
+    "error_message": null,
+    "width": 300,
+    "height": 302,
+    "original_width": 300,
+    "original_height": 302,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"302\"}",
+    "sha256": "9cdb382aa85d79281ad7499f4d3fc47c4b61e47e8c1c2114c971f61c813b031f"
+}

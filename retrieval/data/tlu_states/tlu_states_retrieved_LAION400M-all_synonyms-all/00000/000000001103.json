@@ -1,0 +1,12 @@
+{
+    "url": "https://ajo.prod.reuters.tv/api/v2/img/5d8481bce4b04f7ff7c1d5f5-1568965052551?location=LANDSCAPE&width=800&height=450",
+    "key": "000000001103",
+    "status": "success",
+    "error_message": null,
+    "width": 800,
+    "height": 450,
+    "original_width": 800,
+    "original_height": 450,
+    "exif": "{}",
+    "sha256": "12dd35eb70d3eea3354d2fa1b92f7a041391949929925a9cfe133faa63789e36"
+}

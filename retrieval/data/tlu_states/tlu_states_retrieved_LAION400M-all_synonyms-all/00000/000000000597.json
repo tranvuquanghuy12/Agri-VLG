@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn02.pinkoi.com/product/pKBgM3gm/0/320x320.jpg",
+    "key": "000000000597",
+    "status": "success",
+    "error_message": null,
+    "width": 320,
+    "height": 320,
+    "original_width": 320,
+    "original_height": 320,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"320\", \"EXIF ExifImageLength\": \"320\"}",
+    "sha256": "74a541fbab55874e7a0c2e77f5c39991a6fff4aa384511a08e89b4e4384f2b12"
+}

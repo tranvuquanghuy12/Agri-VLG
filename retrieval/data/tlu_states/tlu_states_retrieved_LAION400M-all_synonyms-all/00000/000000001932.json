@@ -1,0 +1,12 @@
+{
+    "url": "https://p.bookcdn.com/data/Photos/271x204/5403/540348/540348486/Extended-Stay-America-Orange-County-Brea-photos-Exterior.JPEG",
+    "key": "000000001932",
+    "status": "success",
+    "error_message": null,
+    "width": 271,
+    "height": 204,
+    "original_width": 271,
+    "original_height": 204,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"271\", \"EXIF ExifImageLength\": \"204\"}",
+    "sha256": "89d279ea82a1504afa96dc66ff43f96012a8018fcddbf4c1ad66d08d8310a323"
+}

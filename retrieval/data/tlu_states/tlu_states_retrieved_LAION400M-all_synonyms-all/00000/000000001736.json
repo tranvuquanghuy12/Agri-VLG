@@ -1,0 +1,12 @@
+{
+    "url": "https://images.squarespace-cdn.com/content/50e9768ee4b08880418b6fd6/1489278992079-0F2MPTVVAVTY6PYKQ4KB/Apple+Snail+Eggs.jpg?format=1000w&content-type=image%2Fjpeg",
+    "key": "000000001736",
+    "status": "success",
+    "error_message": null,
+    "width": 1000,
+    "height": 1250,
+    "original_width": 1000,
+    "original_height": 1250,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"1250\"}",
+    "sha256": "919f3836de9ed43bbf9e26ccc215b41313f4ec8fe529f0b85f4e42ca7a926d48"
+}

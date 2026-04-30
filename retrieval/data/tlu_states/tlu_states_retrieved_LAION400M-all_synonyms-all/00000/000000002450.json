@@ -1,0 +1,12 @@
+{
+    "url": "https://p.bookcdn.com/data/Photos/300x302/5401/540151/540151995/Extended-Stay-America-Orange-County-Irvine-Spectrum-photos-Exterior.JPEG",
+    "key": "000000002450",
+    "status": "success",
+    "error_message": null,
+    "width": 300,
+    "height": 302,
+    "original_width": 300,
+    "original_height": 302,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"302\"}",
+    "sha256": "10181ea89e6a6a8d5c52923c71f41eced57eb445c0d7c7a2deb3095d0b4b41ea"
+}

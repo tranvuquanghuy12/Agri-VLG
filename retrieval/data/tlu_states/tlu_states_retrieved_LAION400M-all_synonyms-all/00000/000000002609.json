@@ -1,0 +1,12 @@
+{
+    "url": "http://thumbs.ifood.tv/files/Dutch%20apple%20pie.jpg",
+    "key": "000000002609",
+    "status": "success",
+    "error_message": null,
+    "width": 283,
+    "height": 424,
+    "original_width": 283,
+    "original_height": 424,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS Macintosh\", \"Image DateTime\": \"2006:11:26 10:43:11\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"220\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1046\", \"Thumbnail JPEGInterchangeFormatLength\": \"7192\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:11:23 05:41:05\", \"EXIF DateTimeDigitized\": \"2006:11:23 05:41:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7\", \"EXIF ApertureValue\": \"53/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2912\", \"EXIF ExifImageLength\": \"4368\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"920\", \"EXIF FocalPlaneXResolution\": \"873600/283\", \"EXIF FocalPlaneYResolution\": \"1456000/471\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "6f21a50432a337562be9ce8a230af1c438c2b5d02b608bdb78804fe8485ebf7a"
+}

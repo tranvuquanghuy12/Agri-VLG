@@ -1,0 +1,12 @@
+{
+    "url": "https://www.thestatesman.com/wp-content/uploads/2018/05/Apple.jpg",
+    "key": "000000001531",
+    "status": "success",
+    "error_message": null,
+    "width": 926,
+    "height": 517,
+    "original_width": 926,
+    "original_height": 517,
+    "exif": "{\"Image ImageDescription\": \"LOS ANGELES - 21 MARCH 2015: Apple store on 3rd Street Promenade in Santa Monica CA United States. The retail chain owned and operated by Apple Inc is dealing with computers and electronics worldwide.\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-RX100M3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.6 (Windows)\", \"Image DateTime\": \"2015:03:21 23:30:20\", \"Image ExifOffset\": \"418\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1068\", \"Thumbnail JPEGInterchangeFormatLength\": \"19310\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:03:21 13:32:04\", \"EXIF DateTimeDigitized\": \"2015:03:21 13:32:04\", \"EXIF ShutterSpeedValue\": \"665241/125000\", \"EXIF ApertureValue\": \"361471/100000\", \"EXIF BrightnessValue\": \"539/160\", \"EXIF ExposureBiasValue\": \"-7/10\", \"EXIF MaxApertureValue\": \"217/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"44/5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[44/5, 257/10, 9/5, 14/5]\", \"EXIF LensModel\": \"8.8-25.7 mm f/1.8-2.8\"}",
+    "sha256": "85ebf370927300ba5e55aec0b79e0af3247ae3ff74948ca1b23c7c0b48b764c9"
+}

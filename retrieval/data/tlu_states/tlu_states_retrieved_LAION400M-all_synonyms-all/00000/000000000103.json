@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/factmag-images/wp-content/uploads/2017/06/Bob-Dylan-Snacks-301x182.jpg",
+    "key": "000000000103",
+    "status": "success",
+    "error_message": null,
+    "width": 301,
+    "height": 182,
+    "original_width": 301,
+    "original_height": 182,
+    "exif": "{}",
+    "sha256": "4a0c0f5181653584b31cf95351cc54789b1551c2afbbd80934e397eeca9c0d5a"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://dinetable.com/wp-content/uploads/2015/11/Koorka-Cutlet-2-250x212.jpg",
+    "key": "000000000152",
+    "status": "success",
+    "error_message": null,
+    "width": 250,
+    "height": 212,
+    "original_width": 250,
+    "original_height": 212,
+    "exif": "{\"Image ImageWidth\": \"4608\", \"Image ImageLength\": \"3456\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A2300\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Visual Watermark\", \"Image DateTime\": \"2015:10:27 19:56:36\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"268\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:10:27 02:17:53\", \"EXIF DateTimeDigitized\": \"2015:10:27 02:17:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"277/32\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"EXIF FocalPlaneXResolution\": \"2304000/121\", \"EXIF FocalPlaneYResolution\": \"1728000/91\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"\"}",
+    "sha256": "e1f55e7ce4d8f81fbab284e6e87785a18a41bcf08713bc833b77e28cbe199ed1"
+}

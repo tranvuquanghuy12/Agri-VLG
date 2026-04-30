@@ -1,0 +1,12 @@
+{
+    "url": "https://stair-fws.s3.amazonaws.com/uploads/website/auctions/items/medium/3780395_1.jpg",
+    "key": "000000001043",
+    "status": "success",
+    "error_message": null,
+    "width": 262,
+    "height": 300,
+    "original_width": 262,
+    "original_height": 300,
+    "exif": "{\"Image ImageWidth\": \"6720\", \"Image ImageLength\": \"4480\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Macintosh)\", \"Image DateTime\": \"2018:02:02 00:58:33\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"2883\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1046\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "c4ecde4c581709fd9928bc53909a5b2fc09e080c5fb1169daaed23b4063ff18d"
+}

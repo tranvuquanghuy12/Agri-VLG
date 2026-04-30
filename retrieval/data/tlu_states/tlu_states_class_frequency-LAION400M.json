@@ -1,0 +1,94 @@
+{
+    "15": {
+        "name": "netherlands_apple",
+        "actual_freq": 1092
+    },
+    "0": {
+        "name": "america_apple",
+        "actual_freq": 679
+    },
+    "2": {
+        "name": "america_orange",
+        "actual_freq": 660
+    },
+    "6": {
+        "name": "china_apple",
+        "actual_freq": 408
+    },
+    "12": {
+        "name": "japan_orange",
+        "actual_freq": 225
+    },
+    "10": {
+        "name": "japan_apple",
+        "actual_freq": 109
+    },
+    "4": {
+        "name": "china-potato",
+        "actual_freq": 72
+    },
+    "3": {
+        "name": "australia_orange",
+        "actual_freq": 68
+    },
+    "1": {
+        "name": "america_grape",
+        "actual_freq": 58
+    },
+    "17": {
+        "name": "other-potato",
+        "actual_freq": 54
+    },
+    "7": {
+        "name": "china_grape",
+        "actual_freq": 42
+    },
+    "5": {
+        "name": "china-strawberry",
+        "actual_freq": 40
+    },
+    "16": {
+        "name": "newzealand_apple",
+        "actual_freq": 25
+    },
+    "14": {
+        "name": "korea_orange",
+        "actual_freq": 17
+    },
+    "11": {
+        "name": "japan_grape",
+        "actual_freq": 11
+    },
+    "22": {
+        "name": "vietnam_orange",
+        "actual_freq": 10
+    },
+    "20": {
+        "name": "vietnam_apple",
+        "actual_freq": 9
+    },
+    "18": {
+        "name": "southafrica_apple",
+        "actual_freq": 8
+    },
+    "13": {
+        "name": "korea_grape",
+        "actual_freq": 2
+    },
+    "19": {
+        "name": "southafrica_grape",
+        "actual_freq": 2
+    },
+    "8": {
+        "name": "dalat-potato",
+        "actual_freq": 0
+    },
+    "9": {
+        "name": "dalat-strawberry",
+        "actual_freq": 0
+    },
+    "21": {
+        "name": "vietnam_grape",
+        "actual_freq": 0
+    }
+}

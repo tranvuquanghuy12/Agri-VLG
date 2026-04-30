@@ -1,0 +1,12 @@
+{
+    "url": "https://www.apfelpage.de/wp-content/uploads/2020/02/Apple-Store-China-1-Thumb-185x124.jpeg",
+    "key": "000000000874",
+    "status": "success",
+    "error_message": null,
+    "width": 640,
+    "height": 425,
+    "original_width": 640,
+    "original_height": 425,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"425\"}",
+    "sha256": "aeaeefd75bb9437818fa55c15f2e8f4d41b1430d1ce0f9d1b01150414a049eda"
+}

@@ -1,0 +1,265 @@
+{
+    "0": {
+        "name": "america_apple",
+        "alternates": {
+            "america_apple": 0,
+            "america apple": 81,
+            "american apple": 357,
+            "apple from america": 0,
+            "us apple": 216,
+            "united states apple": 25
+        },
+        "most_common_name": "american apple",
+        "actual_freq": 679
+    },
+    "1": {
+        "name": "america_grape",
+        "alternates": {
+            "america_grape": 0,
+            "america grape": 20,
+            "american grape": 33,
+            "grape from america": 0,
+            "us grape": 5,
+            "united states grape": 0
+        },
+        "most_common_name": "american grape",
+        "actual_freq": 58
+    },
+    "2": {
+        "name": "america_orange",
+        "alternates": {
+            "america_orange": 0,
+            "america orange": 458,
+            "american orange": 113,
+            "orange from america": 0,
+            "us orange": 66,
+            "united states orange": 23
+        },
+        "most_common_name": "america orange",
+        "actual_freq": 660
+    },
+    "3": {
+        "name": "australia_orange",
+        "alternates": {
+            "australia_orange": 0,
+            "australia orange": 43,
+            "australian orange": 25,
+            "orange from australia": 0
+        },
+        "most_common_name": "australia orange",
+        "actual_freq": 68
+    },
+    "4": {
+        "name": "china-potato",
+        "alternates": {
+            "china-potato": 0,
+            "china potato": 30,
+            "chinese potato": 37,
+            "potato from china": 7
+        },
+        "most_common_name": "chinese potato",
+        "actual_freq": 72
+    },
+    "5": {
+        "name": "china-strawberry",
+        "alternates": {
+            "china-strawberry": 0,
+            "china strawberry": 19,
+            "chinese strawberry": 15,
+            "strawberry from china": 6
+        },
+        "most_common_name": "china strawberry",
+        "actual_freq": 40
+    },
+    "6": {
+        "name": "china_apple",
+        "alternates": {
+            "china_apple": 0,
+            "china apple": 227,
+            "chinese apple": 151,
+            "apple from china": 40
+        },
+        "most_common_name": "china apple",
+        "actual_freq": 408
+    },
+    "7": {
+        "name": "china_grape",
+        "alternates": {
+            "china_grape": 0,
+            "china grape": 15,
+            "chinese grape": 23,
+            "grape from china": 4
+        },
+        "most_common_name": "chinese grape",
+        "actual_freq": 42
+    },
+    "8": {
+        "name": "dalat-potato",
+        "alternates": {
+            "dalat-potato": 0,
+            "dalat potato": 0,
+            "vietnamese dalat potato": 0,
+            "potato from dalat": 0
+        },
+        "most_common_name": "dalat-potato",
+        "actual_freq": 0
+    },
+    "9": {
+        "name": "dalat-strawberry",
+        "alternates": {
+            "dalat-strawberry": 0,
+            "dalat strawberry": 0,
+            "vietnamese dalat strawberry": 0,
+            "strawberry from dalat": 0
+        },
+        "most_common_name": "dalat-strawberry",
+        "actual_freq": 0
+    },
+    "10": {
+        "name": "japan_apple",
+        "alternates": {
+            "japan_apple": 0,
+            "japan apple": 71,
+            "japanese apple": 38,
+            "apple from japan": 0
+        },
+        "most_common_name": "japan apple",
+        "actual_freq": 109
+    },
+    "11": {
+        "name": "japan_grape",
+        "alternates": {
+            "japan_grape": 0,
+            "japan grape": 3,
+            "japanese grape": 8,
+            "grape from japan": 0
+        },
+        "most_common_name": "japanese grape",
+        "actual_freq": 11
+    },
+    "12": {
+        "name": "japan_orange",
+        "alternates": {
+            "japan_orange": 0,
+            "japan orange": 47,
+            "japanese orange": 148,
+            "orange from japan": 30
+        },
+        "most_common_name": "japanese orange",
+        "actual_freq": 225
+    },
+    "13": {
+        "name": "korea_grape",
+        "alternates": {
+            "korea_grape": 0,
+            "korea grape": 1,
+            "korean grape": 1,
+            "grape from korea": 0,
+            "south korean grape": 1
+        },
+        "most_common_name": "korea grape",
+        "actual_freq": 2
+    },
+    "14": {
+        "name": "korea_orange",
+        "alternates": {
+            "korea_orange": 0,
+            "korea orange": 9,
+            "korean orange": 6,
+            "orange from korea": 2,
+            "south korean orange": 0
+        },
+        "most_common_name": "korea orange",
+        "actual_freq": 17
+    },
+    "15": {
+        "name": "netherlands_apple",
+        "alternates": {
+            "netherlands_apple": 0,
+            "netherlands apple": 2,
+            "dutch apple": 1090,
+            "apple from the netherlands": 0
+        },
+        "most_common_name": "dutch apple",
+        "actual_freq": 1092
+    },
+    "16": {
+        "name": "newzealand_apple",
+        "alternates": {
+            "newzealand_apple": 0,
+            "new zealand apple": 11,
+            "nz apple": 13,
+            "apple from new zealand": 1
+        },
+        "most_common_name": "nz apple",
+        "actual_freq": 25
+    },
+    "17": {
+        "name": "other-potato",
+        "alternates": {
+            "other-potato": 0,
+            "other potato": 17,
+            "mixed potato": 37,
+            "unclassified potato": 0
+        },
+        "most_common_name": "mixed potato",
+        "actual_freq": 54
+    },
+    "18": {
+        "name": "southafrica_apple",
+        "alternates": {
+            "southafrica_apple": 0,
+            "southafrica apple": 0,
+            "south africa apple": 8,
+            "south african apple": 0,
+            "apple from south africa": 0
+        },
+        "most_common_name": "south africa apple",
+        "actual_freq": 8
+    },
+    "19": {
+        "name": "southafrica_grape",
+        "alternates": {
+            "southafrica_grape": 0,
+            "southafrica grape": 0,
+            "south africa grape": 1,
+            "south african grape": 1,
+            "grape from south africa": 0
+        },
+        "most_common_name": "south africa grape",
+        "actual_freq": 2
+    },
+    "20": {
+        "name": "vietnam_apple",
+        "alternates": {
+            "vietnam_apple": 0,
+            "vietnam apple": 7,
+            "vietnamese apple": 2,
+            "apple from vietnam": 0
+        },
+        "most_common_name": "vietnam apple",
+        "actual_freq": 9
+    },
+    "21": {
+        "name": "vietnam_grape",
+        "alternates": {
+            "vietnam_grape": 0,
+            "vietnam grape": 0,
+            "vietnamese grape": 0,
+            "grape from vietnam": 0
+        },
+        "most_common_name": "vietnam_grape",
+        "actual_freq": 0
+    },
+    "22": {
+        "name": "vietnam_orange",
+        "alternates": {
+            "vietnam_orange": 0,
+            "vietnam orange": 5,
+            "vietnamese orange": 3,
+            "orange from vietnam": 2
+        },
+        "most_common_name": "vietnam orange",
+        "actual_freq": 10
+    }
+}

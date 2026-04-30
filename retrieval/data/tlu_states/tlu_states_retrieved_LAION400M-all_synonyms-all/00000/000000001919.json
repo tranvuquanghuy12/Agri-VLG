@@ -1,0 +1,12 @@
+{
+    "url": "https://p.bookcdn.com/data/Photos/271x204/3941/394122/394122057/Extended-Stay-America-Orange-County-Huntington-Beach-photos-Exterior.JPEG",
+    "key": "000000001919",
+    "status": "success",
+    "error_message": null,
+    "width": 271,
+    "height": 204,
+    "original_width": 271,
+    "original_height": 204,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"271\", \"EXIF ExifImageLength\": \"204\"}",
+    "sha256": "a1ac4c0b8808823f5aeafd00b417f70460cb6dc7beb4b28a2c0c8579930adf0d"
+}

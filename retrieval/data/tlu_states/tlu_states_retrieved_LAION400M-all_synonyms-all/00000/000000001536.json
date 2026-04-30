@@ -1,0 +1,12 @@
+{
+    "url": "https://drscdn.500px.org/photo/227189115/m%3D900/v2?user_id=424230&webp=true&sig=d3d8661e152d82728f8a9810ea2c3cd2d7c13d633fcea0ba759df474992c29b3",
+    "key": "000000001536",
+    "status": "success",
+    "error_message": null,
+    "width": 1024,
+    "height": 684,
+    "original_width": 1024,
+    "original_height": 684,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"684\"}",
+    "sha256": "9118e561ac7367e01d0431b3283f0ec299960fba1a5c7806c3a39b764498afca"
+}

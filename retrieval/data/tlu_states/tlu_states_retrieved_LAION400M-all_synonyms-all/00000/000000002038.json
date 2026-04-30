@@ -1,0 +1,12 @@
+{
+    "url": "https://www.kenkoskela.com/images/xl/St-Joseph-Lighthouse-Beach.jpg",
+    "key": "000000002038",
+    "status": "success",
+    "error_message": null,
+    "width": 800,
+    "height": 533,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image ImageDescription\": \"Gorgeous sunset behind a lighthouse and beach during Summer\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 4.4 (Macintosh)\", \"Image DateTime\": \"2013:05:06 21:08:46\", \"Image Artist\": \"Ken Koskela\", \"Image Copyright\": \"\\u00a9 Ken Koskela\", \"Image ExifOffset\": \"340\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"986\", \"Thumbnail JPEGInterchangeFormatLength\": \"3990\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"22\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:05:09 19:44:43\", \"EXIF DateTimeDigitized\": \"2010:05:09 19:44:43\", \"EXIF ShutterSpeedValue\": \"540241/125000\", \"EXIF ApertureValue\": \"8918863/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF SubSecTimeOriginal\": \"5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"533\", \"EXIF FocalPlaneXResolution\": \"5616000/1459\", \"EXIF FocalPlaneYResolution\": \"1872000/479\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"1721107600\", \"EXIF LensSpecification\": \"[24, 105, 0/0, 0/0]\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\"}",
+    "sha256": "533b3a9dae59af23010538790344b386f8799ca6c3c15bb62071b6de9b258c11"
+}
