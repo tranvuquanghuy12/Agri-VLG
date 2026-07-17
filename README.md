@@ -14,7 +14,7 @@
 
 This repository contains the official PyTorch implementation for the paper: **Agri-VLG: Robust Identification of Counterfeit Agricultural Products using Few-Shot Annotated Data and Open-Source Knowledge** (IEEE Access, 2024).
 
-![Agri-VLG Architecture](Kientructongthe.png)
+![Agri-VLG Architecture](assets\Kientructongthe.png)
 
 ## 📌 Project Overview
 
